@@ -62,7 +62,8 @@ nav a:hover {
 }
 
 .btn:hover {
-    opacity: .8;background: rgb(252, 110, 44);
+    opacity: .8;
+    background: rgb(252, 110, 44);
 }
 
 .features,
@@ -109,9 +110,22 @@ nav a:hover {
     color: rgb(255, 81, 0);
 }
 
-footer {
-    padding: 10px;
+.video-section {
+    width: 100%;
+    height: 600px;
     background: #000;
+    text-align: center;
+}
+
+.demo-video {
+    padding: 50px;
+    width: 70%;
+    border-radius: 20px;
+}
+
+footer {
+    padding: 20px;
+    background: #333;
     color: whitesmoke;
     text-align: center;
 }
