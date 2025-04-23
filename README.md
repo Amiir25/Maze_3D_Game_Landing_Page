@@ -1,1 +1,1 @@
-A Landing Page for the project Maze 3D Game
+A Landing Page for **Maze 3D Game** project
